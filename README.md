@@ -6,3 +6,7 @@
 
 # Lab-2 Date: 17/02/2025
 - WAPP to do Linear Regression from scratch without using any library
+
+# Lab-3 Date: 24/02/2025
+- Data visualization:- Bar Chart, Scatter plot, Line graph, Histogram, Box plot
+- Linear Regression using Python library
