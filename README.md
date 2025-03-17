@@ -10,3 +10,6 @@
 # Lab-3 Date: 24/02/2025
 - Data visualization:- Bar Chart, Scatter plot, Line graph, Histogram, Box plot
 - Linear Regression using Python library
+
+# Lab-5 Date: 17/03/2025
+- K-Means Clustering
