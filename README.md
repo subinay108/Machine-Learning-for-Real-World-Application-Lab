@@ -13,3 +13,6 @@
 
 # Lab-5 Date: 17/03/2025
 - K-Means Clustering
+
+# Lab-6 Date: 24/03/2025
+- Univariate Analysis
