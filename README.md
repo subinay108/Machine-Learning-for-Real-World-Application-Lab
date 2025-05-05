@@ -16,3 +16,12 @@
 
 # Lab-6 Date: 24/03/2025
 - Univariate Analysis
+
+# Lab-7 Date:
+- Bivariate Analysis
+
+# Lab-8 Date: 05/05/2025
+- Model Evaluation using Confusion Matix for Logistic Regression
+
+# Lab-9 Date: 05/05/2025
+- 
